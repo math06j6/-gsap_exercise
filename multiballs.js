@@ -1,6 +1,5 @@
 "use strict";
+
 import { gsap } from "gsap";
 
-let tl = gsap.timeline();
-
-tl.to(".ball", { duration: 2, x: 400, rotate: 200, duration: 2, ease: "slow" }).to(".ball", { duration: 2, y: -22, x: 413, rotate: 360 });
+gsap.to(".ball", { duration: 2, y: -400, stagger: 0.2, repeat: 5, ease: "bounce.out" });

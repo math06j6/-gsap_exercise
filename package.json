@@ -2,10 +2,10 @@
   "name": "gsap_exercise",
   "version": "0.0.1",
   "description": "gsap",
-  "main": "beachball.js",
+  "main": "multiballs.js",
   "scripts": {
-    "start": "parcel beachball.html --open",
-    "build": "parcel build beachball.html --public-url ./"
+    "start": "parcel multiballs.html --open",
+    "build": "parcel build multiballs.html --public-url ./"
   },
   "repository": {
     "type": "git",
