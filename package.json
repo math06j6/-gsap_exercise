@@ -4,8 +4,8 @@
   "description": "gsap",
   "main": "multiballs.js",
   "scripts": {
-    "start": "parcel multiballs.html --open",
-    "build": "parcel build multiballs.html --public-url ./"
+    "start": "parcel ball.html --open",
+    "build": "parcel build ball.html --public-url ./"
   },
   "repository": {
     "type": "git",
