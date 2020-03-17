@@ -13,7 +13,7 @@ body {
 .ball {
   width: 10vh;
   height: 10vh;
-  background-image: url("static/beachball.svg");
+  background-image: url("beachball.svg");
   background-size: 100%;
 }
 
