@@ -1,0 +1,23 @@
+{
+  "name": "gsap_exercise",
+  "version": "0.0.1",
+  "description": "gsap",
+  "main": "beachball.js",
+  "scripts": {
+    "start": "parcel *.html --open",
+    "build": "parcel *.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/math06j6/-gsap_exercise.git"
+  },
+  "author": "M",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/math06j6/-gsap_exercise/issues"
+  },
+  "homepage": "https://github.com/math06j6/-gsap_exercise#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
